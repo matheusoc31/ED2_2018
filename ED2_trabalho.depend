@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1539118152 source:c:\users\home\desktop\ed2_trabalho\main.cpp
+	<iostream>
+	"../../Downloads/ed2_2018.3-master/headers/libraries.h"
+	"TabelaHash.h"
+	"Deputado.h"
+
+1538900482 source:c:\users\home\desktop\ed2_trabalho\src\deputado.cpp
+	"Deputado.h"
+
+1538900482 c:\users\home\desktop\ed2_trabalho\include\deputado.h
+	<iostream>
+
+1539117995 source:c:\users\home\desktop\ed2_trabalho\src\tabelahash.cpp
+	<iostream>
+	<../../../Downloads/ed2_2018.3-master/headers/libraries.h>
+	"TabelaHash.h"
+	"Deputado.h"
+
+1539117719 c:\users\home\desktop\ed2_trabalho\include\tabelahash.h
+	"Deputado.h"
+	<math.h>
+
+1538933727 c:\users\home\downloads\ed2_2018.3-master\headers\libraries.h
+	<iostream>
+	<string>
+	<string.h>
+	<cmath>
+	<math.h>
+	<vector>
+	<cstdlib>
+	<cstring>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	<ctime>
+	"sorting.h"
+	"util.h"
+	"Deputado.h"
+
+1538773296 c:\users\home\downloads\ed2_2018.3-master\headers\sorting.h
+	"deputado.h"
+
+1538773296 c:\users\home\downloads\ed2_2018.3-master\headers\deputado.h
+
+1538933237 c:\users\home\downloads\ed2_2018.3-master\headers\util.h
+	"Deputado.h"
+
+1538946511 source:c:\users\home\downloads\ed2_2018.3-master\src\util.cpp
+	"../headers/libraries.h"
+
